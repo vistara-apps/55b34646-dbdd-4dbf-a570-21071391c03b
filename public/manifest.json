@@ -1,0 +1,14 @@
+{
+  "name": "Monad Academy",
+  "description": "Monad Academy is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://55b34646-dbdd-4dbf-a570-21071391c03b.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Monad Academy",
+      "description": "Monad Academy is a Base Mini App built with Zara.",
+      "url": "https://55b34646-dbdd-4dbf-a570-21071391c03b.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
